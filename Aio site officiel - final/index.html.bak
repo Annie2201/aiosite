@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/scss/style.css" type="text/css">
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <title>AIO</title>
+<body>
+    <header>
+       <div>
+            <nav>
+                <ul>
+                <li><a href="#0">Home</a></li>
+                <li><a href="#0">About</a></li>
+                <li>
+                    <a href="#0">Clients</a>
+                    <ul>
+                    <li><a href="#0">Burger King</a></li>
+                    <li><a href="#0">Southwest Airlines</a></li>
+                    <li><a href="#0">Levi Strauss</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#0">Services</a>
+                    <ul>
+                    <li><a href="#0">Print Design</a></li>
+                    <li><a href="#0">Web Design</a></li>
+                    <li><a href="#0">Mobile App Development</a></li>
+                    </ul>
+                </li>
+                <li><a href="#0">Contact</a></li>
+                </ul>
+            </nav>
+       </div>
+    </header>
+    <section id="bodySite">
+        <div id="tsanta1" class="bg-primary"> <div> </div> </div>
+        <div id="annie2" class="bg-success">  </div>
+        <div id="tsanta2" class="bg-danger">  
+            <div class="container">
+                <div class="row aioagencyapropos">
+                    <div class="col-md-6 bg-primary">soratra</div>
+                    <div class="col-md-6 bg-secondary">sary</div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    <footer>
+
+    </footer>
+   
+   
+    <script src="./node_modules/jquery/dist/jquery.min.js" type="text/javascript"></script>
+    <script src="./node_modules/popper.js/dist/popper.min.js" type="text/javascript"></script>
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="./assets/js/script.js" type="text/javascript"></script>
+</body>
+</html>
